@@ -10,8 +10,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+//ceshi**************
 
 public class SqlSessionFactory {
+    //****************************************
     //这个类的目的是为了帮所有的Dao处理冗余的jdbc操作
 
     //查询一行记录
